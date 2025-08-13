@@ -5,6 +5,6 @@ My Docs
    :maxdepth: 2
    :caption: Contents:
 
-    docs/test
+   docs/test
 
 This is a minimal Sphinx project.
